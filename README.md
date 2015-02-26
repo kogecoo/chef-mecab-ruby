@@ -1,5 +1,8 @@
 mecab-ruby Chef Cookbook
 =======================
+
+[![Circle CI](https://circleci.com/gh/kogecoo/chef-mecab-ruby.svg?style=svg)](https://circleci.com/gh/kogecoo/chef-mecab-ruby)
+
 Installs an official ruby binding for mecab
 
 Requirements
