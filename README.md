@@ -3,6 +3,8 @@ mecab-ruby Chef Cookbook
 
 [![Circle CI](https://circleci.com/gh/kogecoo/chef-mecab-ruby.svg?style=svg)](https://circleci.com/gh/kogecoo/chef-mecab-ruby)
 
+## This recipe is DEPRECATED. It is merged to [chef-mecab](https://circleci.com/gh/kogecoo/chef-mecab) cookbook.
+
 Installs an official ruby binding for mecab
 
 Requirements
